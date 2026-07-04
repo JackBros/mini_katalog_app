@@ -1,0 +1,6 @@
+[
+  {"id":1,"title":"Hoparlör","description":"Küçük taşınabilir hoparlör","price":49.99,"image":"assets/images/speaker.png"},
+  {"id":2,"title":"Kulaklık","description":"Rahat kulaklık","price":79.99,"image":"assets/images/headphones.png"},
+  {"id":3,"title":"HomePod Mini","description":"Akıllı hoparlör, mükemmel ses","price":99.99,"image":"assets/images/homepod.png"},
+  {"id":4,"title":"Akıllı Saat","description":"Fitness ve bildirimler","price":129.99,"image":"assets/images/watch.png"}
+]
