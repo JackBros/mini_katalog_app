@@ -39,18 +39,22 @@ flutter run
 
 ### Ana Sayfa (Keşfet)
 ![Keşfet - Ana Sayfa](assets/screenshots/home_screen1.png)
+
 Ürünlerin GridView formatında listelendiği ana sayfa. Banner görseli, arama işlevi ve tüm ürünler görülüyor.
 
 ### Ürün Listesi
 ![Ürün Listeleme](assets/screenshots/home_screen2.png)
+
 Öne çıkan ürünler GridView ile gösterilmektedir. Her ürüne tıklayarak detaylı bilgiye erişebilirsiniz.
 
 ### Ürün Detayı
 ![Ürün Detayı](assets/screenshots/product_detail.png)
+
 Seçilen ürünün detaylı bilgileri (başlık, açıklama, özellikler, fiyat) ve "Sepete Ekle" düğmesi.
 
 ### Sepetim
 ![Sepetim - Alışveriş Sepeti](assets/screenshots/cart_screen.png)
+
 Sepete eklenen ürünlerin listesi, her ürün için silme seçeneği ve toplam fiyat hesaplaması.
 
 ## Özellikler
