@@ -25,24 +25,11 @@ class CartScreen extends StatelessWidget {
                       return ListTile(
                         leading: ClipRRect(
                           borderRadius: BorderRadius.circular(8),
-                          child: Image.network(
+                          child: Image.asset(
                             p.image,
                             width: 56,
                             height: 56,
                             fit: BoxFit.cover,
-                            errorBuilder: (context, error, stackTrace) =>
-                                Container(
-                              width: 56,
-                              height: 56,
-                              color: Colors
-                                  .primaries[p.id % Colors.primaries.length]
-                                  .shade100,
-                              child: Center(
-                                  child: Text(
-                                      p.title.isNotEmpty ? p.title[0] : '?',
-                                      style: TextStyle(
-                                          fontWeight: FontWeight.bold))),
-                            ),
                           ),
                         ),
                         title: Text(p.title),
