@@ -36,7 +36,15 @@ flutter run
 - `assets/images/` : Ürün görselleri
 
 ## Ekran Görüntüleri
-[Ekran görüntüleri gösterilebilecek - Chrome DevTools ile alınabilir]
+
+### Ana Sayfa (Keşfet)
+Ürünlerin GridView formatında listelendiği ana sayfa. Banner görseli, arama işlevi ve tüm ürünler görülüyor.
+
+### Ürün Detayı
+Seçilen ürünün detaylı bilgileri (başlık, açıklama, özellikler, fiyat) ve "Sepete Ekle" düğmesi.
+
+### Sepetim
+Sepete eklenen ürünlerin listesi, her ürün için silme seçeneği ve toplam fiyat hesaplaması.
 
 ## Özellikler
 - ✅ GridView ile responsive ürün listeleme
