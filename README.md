@@ -38,12 +38,15 @@ flutter run
 ## Ekran Görüntüleri
 
 ### Ana Sayfa (Keşfet)
+![Keşfet - Ana Sayfa](assets/screenshots/Pasted%20Image%202.png)
 Ürünlerin GridView formatında listelendiği ana sayfa. Banner görseli, arama işlevi ve tüm ürünler görülüyor.
 
 ### Ürün Detayı
+![Ürün Detayı](assets/screenshots/Pasted%20Image%203.png)
 Seçilen ürünün detaylı bilgileri (başlık, açıklama, özellikler, fiyat) ve "Sepete Ekle" düğmesi.
 
 ### Sepetim
+![Sepetim - Alışveriş Sepeti](assets/screenshots/Pasted%20Image%201.png)
 Sepete eklenen ürünlerin listesi, her ürün için silme seçeneği ve toplam fiyat hesaplaması.
 
 ## Özellikler
